@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "My First Post"
+---
+
 here's a simple post about what i'm doing...nothing
 
 haha
